@@ -1,0 +1,1 @@
+AI Travel Guide is a Streamlit-based app using Google Gemini AI to provide smart travel recommendations. Users enter source, destination, travel mode, and preferences, and get the best options sorted by cost, duration, or comfort. Supports multiple languages and offers an intuitive UI for seamless trip planning.
